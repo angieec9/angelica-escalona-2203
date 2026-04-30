@@ -1,0 +1,14 @@
+{
+    "name": "publico/proyecto_pst",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angelica"
+        }
+    ],
+    "require": {}
+}
